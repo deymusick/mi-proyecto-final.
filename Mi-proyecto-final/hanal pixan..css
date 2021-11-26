@@ -1,0 +1,126 @@
+/*para decoracion del fondo*/
+body{
+    background-image:url("imajenes/OIP\ \(5\).jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1000px;
+    Background-position: center;
+    background-color: #ff8000;
+}
+
+h1{
+    text-align: center;
+    height: 85px;
+    color: rgb(255, 102, 0);
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: cursive;
+    text-shadow: 
+    -2px -2px 0 #000,  
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000 ;
+}
+
+h2{
+    color: white;
+    width: 20px;
+    height: 20px;
+    margin-left: 550px;
+    margin-right: 300px;
+    font-family: serif;
+    text-shadow: 
+    -2px -2px 0 #000,  
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000 ;
+}
+
+h6{
+  margin-top: 400px;
+}
+
+ul, li{
+    color: rgb(255, 121, 31);
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+h3{
+    color: rgb(255, 121, 31);
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    font-family:cursive;
+    text-shadow:
+    -2px -2px 0 #000,  
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000 ;
+}
+
+h4{
+    color: rgb(255, 208, 0);
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 
+    -2px -2px 0 #000,  
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000 ;
+}
+
+h5{
+  color: darkgoldenrod;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-shadow: 
+  -2px -2px 0 #000,  
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  2px 2px 0 #000 ;
+}
+
+a{
+  color: darkgoldenrod;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-shadow: 
+  -2px -2px 0 #000,  
+  2px -2px 0 #000,
+  -2px 2px 0 #000,
+  2px 2px 0 #000 ;
+}
+
+img{
+        width: 233px;
+        left: 100%;
+        right: 100%;
+        top: 100%;
+        margin-left: 40%;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 90px rgb(146, 58, 0); 
+    border-radius: 3px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(255, 0, 0); 
+    border-radius: 3px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(255, 81, 0); 
+  }
+  div{
+    text-align: center;
+  }
